@@ -168,6 +168,6 @@ Use the tabs at the top:
 
 
 ![view 2](2.png)
-![view 3(3.png)
+![view 3](3.png)
 ![view 4](4.png)
 ![view 5](5.png)
